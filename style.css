@@ -1,0 +1,33 @@
+.principal {
+    margin-top: 30px;
+}
+
+h1 {
+    color: white;
+}
+
+.productos {
+    display: none;
+}
+
+.carrito {
+    margin-right: 2%;
+}
+
+button {
+    text-decoration: none;
+}
+
+.agregar {
+    background-color: #87a7eb;
+}
+
+.cart {
+    background-image: url('./assets/cart-plus.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.carro {
+    width: 400px;
+}
